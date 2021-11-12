@@ -1,0 +1,1 @@
+const src = 'asdfdsf/<%= name %>/<%= name %>.js'
