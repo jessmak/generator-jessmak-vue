@@ -1,2 +1,2 @@
 # generator-jessmak-vue
-自定义vue项目脚手架
+使用yeoman实现, 自定义vue项目脚手架
